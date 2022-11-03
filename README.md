@@ -1,9 +1,9 @@
 # node-express-handlebars-starter-template
 
-This template provides minimal scaffolding for a basic node.js application using the express router.
-- For a templating engine, it uses Handlebars.
-- It also uses dotenv for environmental variables.
-- Uses morgan for logging.
+This template provides a super minimal scaffolding for a basic node.js/express application.
+- Handlebars.
+- Dotenv.
+- Morgan.
 
 ## Installation
 Clone the repo
