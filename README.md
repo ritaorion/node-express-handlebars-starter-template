@@ -1,4 +1,4 @@
-# Node.js, Express, + Handlebars Starter Template
+# Node.js, Express, Handlebars Starter Template
 
 This template provides a super minimal scaffolding for a basic node.js/express application.
 - Handlebars.
@@ -9,7 +9,7 @@ This template provides a super minimal scaffolding for a basic node.js/express a
 Clone the repo
 ```
 npm install
-npm run dev (for development)
-npm start (for prod)
+npm run dev
+npm start
 ```
 By default application is served over port 3000.
