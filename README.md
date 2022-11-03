@@ -1,7 +1,7 @@
 # Node.js, Express, Handlebars Starter Template
 
 This template provides a super minimal scaffolding for a basic node.js/express application.
-Save a little timing spining up a new app by cloning this repo.
+Save a little time spining up a new app by cloning this repo.
 - Handlebars.
 - Dotenv.
 - Morgan.
