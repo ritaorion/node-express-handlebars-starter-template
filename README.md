@@ -1,4 +1,4 @@
-# node-express-handlebars-starter-template
+# Node.js, Express, + Handlebars Starter Template
 
 This template provides a super minimal scaffolding for a basic node.js/express application.
 - Handlebars.
