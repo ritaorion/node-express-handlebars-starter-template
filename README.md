@@ -6,7 +6,6 @@ Save a little time spining up a new app by cloning this repo.
 - Handlebars
 - Dotenv
 - Morgan
-- Express Session
 
 By default application is served over port 3000. You can change this in /config/config.env
 
