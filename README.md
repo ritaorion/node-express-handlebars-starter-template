@@ -9,7 +9,7 @@ This template provides minimal scaffolding for a basic node.js application using
 Clone the repo
 ```
 npm install
-npm run dev
-npm start
+npm run dev (for development)
+npm start (for prod)
 ```
 By default application is served over port 3000.
