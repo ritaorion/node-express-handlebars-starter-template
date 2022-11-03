@@ -2,9 +2,12 @@
 
 This template provides a super minimal scaffolding for a basic node.js/express application.
 Save a little time spining up a new app by cloning this repo.
-- Handlebars.
-- Dotenv.
-- Morgan.
+
+- Handlebars
+- Dotenv
+- Morgan
+- Express Session
+
 By default application is served over port 3000. You can change this in /config/config.env
 
 ## Installation
