@@ -6,8 +6,10 @@ This template provides minimal scaffolding for a basic node.js application using
 - Uses morgan for logging.
 
 ## Installation
+Clone the repo
 ```
 npm install
 npm run dev
+npm start
 ```
 By default application is served over port 3000.
